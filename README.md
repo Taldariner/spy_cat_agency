@@ -77,50 +77,50 @@ python manage.py runserver
 
 * List Spy Cats
 
-** GET `/cats/`
+	* GET `/cats/`
 
 * Create Spy Cat
 
-** POST `/cats/create`
+	* POST `/cats/create`
 
 * Retrieve Spy Cat
 
-** GET `/cats/{id}/`
+	* GET `/cats/{id}/`
 
 * Update Spy Cat Salary
 
-** PATCH `/cats/{id}/update_salary`
+	* PATCH `/cats/{id}/update_salary`
 
 * Delete Spy Cat
 
-** DELETE `/cats/{id}/delete`
+	* DELETE `/cats/{id}/delete`
 
 
 ### Missions Endpoints
 
 * List Missions
 
-** GET `/missions/`
+	* GET `/missions/`
 
 * Create Mission
 
-** POST `/missions/create`
+	* POST `/missions/create`
 
 * Retrieve Mission
 
-** GET `/missions/{id}/`
+	* GET `/missions/{id}/`
 
 * Update Mission Targets
 
-** PATCH `/missions/{id}/update_targets`
+	* PATCH `/missions/{id}/update_targets`
 
 * Delete Mission
 
-** DELETE `/missions/{id}/delete`
+	* DELETE `/missions/{id}/delete`
 
 * Assign Cat to Mission
 
-** POST `/missions/{mission_id}/assign_cat/{cat_id}/`
+	* POST `/missions/{mission_id}/assign_cat/{cat_id}/`
 
 ## Postman Collection
 
