@@ -133,9 +133,9 @@ To help you test the API, you can import the Postman collection available at the
 Feel free to submit issues, suggestions, or pull requests to help improve this project!
 
 1. Fork the repository.
-2. Create a new branch (git checkout -b feature/YourFeature).
-3. Make your changes and commit them (git commit -m 'Add some feature').
-4. Push to the branch (git push origin feature/YourFeature).
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Make your changes and commit them (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
 Thank you for checking out the Spy Cat Agency API! Happy coding!
